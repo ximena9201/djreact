@@ -1,1 +1,6 @@
-env/
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+env
+**/*.pyc
+node_modules/
+build
